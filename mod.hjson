@@ -1,0 +1,18 @@
+name: "music-player"
+displayName: "Music Player"
+author: "h"
+description: '''
+(commerical starting...)
+Ever wanted to listen to the music of a mod AND play vanilla at the same time?
+Well look no more than this mod!
+No mater the mod, u can listen to its music.
+
+Please refer to the Maunual[README.md] for instructions to config this product.
+Now, back to ur doing and thanks for watching[reading] this commerical!
+(commerical end)
+'''
+subtitle: "music"
+version: "1.0"
+minGameVersion: "146"
+dependencies: []
+hidden: true
